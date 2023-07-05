@@ -1,0 +1,31 @@
+main{
+    max-width: 700px !important;
+    position: relative !important;
+}
+
+.ads-side-1, .ads-side-2{
+    position: fixed;
+    width: 300px;
+    height: 600px;
+    background-color: red;
+  
+}
+
+/* .ads-side-1{
+    right: -320px;
+}
+
+.ads-side-2{
+    left: -320px;
+} */
+
+
+.ads-side-1{
+    left: 12%;
+}
+.ads-side-2{
+    right: 12%;
+}
+.ads3{
+    width: 100%;
+}
